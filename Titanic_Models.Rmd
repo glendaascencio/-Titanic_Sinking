@@ -4,11 +4,7 @@ author: "Glenda Ascencio"
 date: "November 19, 2016"
 output: html_document
 ---
-##### In this research, I used regular expressions and data mining skills to analyze the sinking of the Titanic.
-This terrible accident claimed the life of over 1500 people, making it one of the deadliest maritime disasters in times of peace. 
-The titanic dataset contains 1313 observations and 7 variables, each observation represents a passenger. In addition, 
-a decision tree model will be developed with the purpose to predict whether a person would have survived the accident based on the
-variables Age, Sex and Pclass (travel class). 
+##### In this research, I used regular expressions and data mining skills to analyze the sinking of the Titanic. The titanic dataset contains 1313 observations and 7 variables, each observation represents a passenger. In addition, a decision tree model will be developed with the purpose to predict whether a person would have survived the accident based on the variables Age, Sex and Pclass (travel class). 
 
 ```{r}
 library(dplyr)
